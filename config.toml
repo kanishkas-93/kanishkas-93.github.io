@@ -10,9 +10,9 @@ enableGitInfo = false
 [params]
 address = "Coimbatore, India"
 favicon = "/favicon.ico"
-firstName = "Kanishka"
-lastName = "S"
-phone = "1-555-555-1222"
+firstName = "Sathish Kumar"
+lastName = "Thiyagarajan"
+phone = "1-555-555-1234"
 showSocializations = true
 showContact = false
 sections = ["skills","publications","creations","contributions","experience","education","blog"]
@@ -24,11 +24,11 @@ sections = ["skills","publications","creations","contributions","experience","ed
 trackerID = "XX-123446-01"
 
 [[params.handles]]
-link = "https://www.linkedin.com/in/Kanishka S/"
+link = "https://www.linkedin.com/in/sathishkumarthiyagarajan/"
 name = "LinkedIn"
 
 [[params.handles]]
-link = "https://github.com/Kanishka S/"
+link = "https://github.com/sathishk/"
 name = "GitHub"
 
 [outputs]
