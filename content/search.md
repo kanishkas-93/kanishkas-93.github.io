@@ -37,6 +37,7 @@ i.e. add `category`
   "tags":{{ .Params.tags | jsonify }}{{end}},
   "categories" : {{ .Params.categories | jsonify }},
 ...
+
 ```
 
 ### Edit fuse.js options to Search
